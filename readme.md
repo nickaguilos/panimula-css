@@ -1,4 +1,5 @@
-# Design Challenge 1: Furniture Source - Team Nick and Sheena
+# Panimula CSS
+Base sass and html files for any project
 
 using gulpfile by Nick 
 
